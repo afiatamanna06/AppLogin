@@ -16,6 +16,7 @@
         android:textSize="20sp"
         />
     <EditText
+        android:id="@+id/emid"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textEmailAddress"
@@ -27,8 +28,17 @@
         android:textSize="20sp"
         />
     <EditText
+        android:id="@+id/pasid"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textPassword"
         />
+    <Button
+        android:background="#076967"
+        android:id="@+id/buid"
+        android:textColor="#ffffff"
+        android:layout_gravity="center"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="Sign In"/>
 </LinearLayout>

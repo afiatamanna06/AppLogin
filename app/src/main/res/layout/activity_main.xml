@@ -21,6 +21,9 @@
         android:id="@+id/emid"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:backgroundTint="#076969"
+        android:textCursorDrawable="@null"
+        android:textSize="25sp"
         android:inputType="textEmailAddress"
         />
     <TextView
@@ -34,6 +37,9 @@
         android:id="@+id/pasid"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:backgroundTint="#076969"
+        android:textCursorDrawable="@null"
+        android:textSize="25sp"
         android:inputType="textPassword"
         />
     <Button

@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_gravity="center"
-    android:background="#99ffcc"
+    android:background="#4b9b77"
     android:orientation="vertical"
     android:padding="10dp"
     tools:context=".MainActivity">
